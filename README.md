@@ -8,3 +8,8 @@ Chcialbym rowniez zaznaczyc ze wszystikie tekstury uzyte w grze sa robione wlasn
   Jak dziala: Bardzo prosto, przechodzisz poziom, otrzymujesz quiz i podliczany jest twoj wynik
 
   Interakcja z uzytkownikiem: Nastepuje podczas poruszania sie postacia oraz przy robieniu quizu
+
+  Dla werski windows:
+  aby zagrac nalezy otworzyc plik "KittyMath.exe"
+  Dla wersji linux:
+  aby zagrac nalezy otworzyc plik "Game.x86_64"

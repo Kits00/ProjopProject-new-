@@ -13,3 +13,5 @@ Chcialbym rowniez zaznaczyc ze wszystikie tekstury uzyte w grze sa robione wlasn
   aby zagrac nalezy otworzyc plik "KittyMath.exe"
   Dla wersji linux:
   aby zagrac nalezy otworzyc plik "Game.x86_64"
+
+!!!!!!!!! Aby rozpakowac pliki .7z potrzebny jest zewnetrzy program do rozpakowywania np winrar lub 7-zip !!!!!!!!!
